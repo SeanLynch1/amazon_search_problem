@@ -1,4 +1,4 @@
-## This repository contains the code I wrote to answering the common Amazon search question:
+# This repository contains the code I wrote to answering the common Amazon search question:
 
 
 You are given an array of strings products and a string searchWord.
@@ -9,7 +9,7 @@ If there are more than three products with a common prefix, return the three lex
 Return a list of lists of the suggested products after each character of searchWord is typed."
 
 
-Example:
+## Example:
 
 Input word: "mouse"
 
