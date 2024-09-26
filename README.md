@@ -1,4 +1,7 @@
-"You are given an array of strings products and a string searchWord.
+This repository contains the code I wrote to answering the common Amazon search question:
+
+
+You are given an array of strings products and a string searchWord.
 
 Design a system that suggests at most three product names from products after each character of searchWord is typed. Suggested products should have a common prefix with searchWord.
 If there are more than three products with a common prefix, return the three lexicographically minimum products.
